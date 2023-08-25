@@ -3,7 +3,7 @@
 - JavaScript
 
 # Task 
-Using dropdowns to dynamically change the attributes of a div.
+Change background color dynamically.
 
 # JS Functionality used : 
 - document.getElementById to get the button element.
